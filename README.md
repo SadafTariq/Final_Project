@@ -21,6 +21,8 @@ This project includes
 
 [Power BI Report Video](https://github.com/SadafTariq/olist/blob/main/Report%20Video.mp4)
 
+[Dashboard] (https://github.com/SadafTariq/olist/blob/main/Dashboard.png)
+
 [Python Code](https://github.com/SadafTariq/olist/blob/main/SentimentAnalysisPythonCode.ipynb)
 
 [Olist Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_orders_dataset.csv)
