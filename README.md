@@ -10,8 +10,8 @@ The following business problems need to be answered.
 
 ## Customer Question
 
-- What is the Customer Demgraphics
-- What is the Review trends among these years?
+- What is Customer Demgraphics?
+- What is the Review trends of products among these years?
 - Sentiment Analysis of customer's feedback
 
 
