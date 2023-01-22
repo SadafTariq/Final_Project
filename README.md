@@ -17,14 +17,10 @@ The following business problems need to be answered.
 
 This project includes
 
-[Project Report](https://github.com/SadafTariq/AdventureWorksCycles/blob/main/Report.pdf)
+[Power BI Report]()
 
-[Python Code](https://github.com/SadafTariq/AdventureWorksCycles/blob/main/Python%20_code.ipynb)
+[Power BI Report Video](https://github.com/SadafTariq/olist/blob/main/Report%20Video.mp4)
 
-SQL Codes:
+[Python Code](https://github.com/SadafTariq/olist/blob/main/SentimentAnalysisPythonCode.ipynb)
 
-[CODE 1](https://github.com/SadafTariq/AdventureWorksCycles/blob/main/Q1.sql)
-[CODE 2](https://github.com/SadafTariq/AdventureWorksCycles/blob/main/Q2.sql)
-[CODE 3](https://github.com/SadafTariq/AdventureWorksCycles/blob/main/Q3%2C4%2C5%2C6.sql)
-
-[Adventure Works Cycle Database](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
+[Olist Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_orders_dataset.csv)
